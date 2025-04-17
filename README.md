@@ -18,8 +18,6 @@ A conversational AI research assistant built with RAG (Retrieval-Augmented Gener
 1. Clone this repository
 2. Install dependencies: `pip install -r requirements.txt`
 3. Set up your environment variables in a `.env` file
-4. Run the data collection script: `python scripts/download_papers.py`
-5. Launch the assistant: `python src/ui.py`
 
 ## Usage
 
