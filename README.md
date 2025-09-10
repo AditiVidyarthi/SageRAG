@@ -19,6 +19,24 @@ A conversational AI research assistant built with RAG (Retrieval-Augmented Gener
 2. Install dependencies: `pip install -r requirements.txt`
 3. Set up your environment variables in a `.env` file
 
+## Reproducibility
+
+Notebooks (/notebooks) contain:
+
+Creating Vector DB
+
+Query evaluation by LLM
+
+ResearchPro1 -- the main program
+
+Statistic Significance Test (Friedman, Wilcoxon, Holm correction)
+
+Database (/Database) includes:
+
+arXiv_papers/ → sample PDFs
+
+Vector_DB/ → prebuilt Chroma vector database
+
 ## Usage
 
 ```python
@@ -30,27 +48,13 @@ from langchain.embeddings import HuggingFaceEmbeddings
 # Initialize components
 llm = OllamaLLM(model="llama3.2")
 embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
-vector_db = Chroma(persist_directory="./arxiv_vector1_db", embedding_function=embeddings)
+vector_db = Chroma(persist_directory="../Database/Vector_DB", embedding_function=embeddings)
 
 # Create research assistant
 assistant = ResearchAssistant(llm=llm, vector_db=vector_db)
 
 # Ask a question
 answer = assistant.process_query("What are the latest developments in transformer models?")
-print(answer)```
+print(answer)
+```
 
-## Usage
-
-Notebooks (/notebooks) contain:
-
-Query evaluation
-
-Answer quality scoring
-
-Statistical analysis (Friedman, Wilcoxon, Holm correction)
-
-Database (/Database) includes:
-
-arxiv_data/ → sample PDFs
-
-arxiv_vector1_db/ → prebuilt Chroma vector database
