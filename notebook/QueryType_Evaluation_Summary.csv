@@ -1,0 +1,7 @@
+Query Type,Count,Avg_Score,Score_gt4
+Original,1006,3.54,62.92
+Rewrite 1,1006,3.91,91.25
+Rewrite 2,1006,3.93,93.54
+Rewrite 3,1006,3.98,98.31
+Rewrite 4,1006,3.94,94.33
+Rewrite 5,1006,3.97,97.32

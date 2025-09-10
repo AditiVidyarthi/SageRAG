@@ -1,0 +1,6 @@
+Query Type,Count,Avg_Improvement,Percent_Improved
+Rewrite 1,1006,0.36,34.29
+Rewrite 2,1006,0.38,34.99
+Rewrite 3,1006,0.44,36.48
+Rewrite 4,1006,0.39,35.29
+Rewrite 5,1006,0.43,35.79

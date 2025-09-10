@@ -1,0 +1,16 @@
+Comparison,Wilcoxon_Statistic,Raw_p,Corrected_p,Significant
+Original vs Rewrite 1,36096.0,0.0,0.0,True
+Original vs Rewrite 2,37727.5,0.0,0.0,True
+Original vs Rewrite 3,42713.5,0.0,0.0,True
+Original vs Rewrite 4,46006.5,0.0,0.0,True
+Original vs Rewrite 5,34237.5,0.0,0.0,True
+Rewrite 1 vs Rewrite 2,56232.0,0.425981,1.0,False
+Rewrite 1 vs Rewrite 3,61733.0,0.826055,1.0,False
+Rewrite 1 vs Rewrite 4,51225.0,0.006242,0.05618,False
+Rewrite 1 vs Rewrite 5,48242.5,0.064363,0.273489,False
+Rewrite 2 vs Rewrite 3,58666.5,0.544517,1.0,False
+Rewrite 2 vs Rewrite 4,47170.0,0.045582,0.273489,False
+Rewrite 2 vs Rewrite 5,46501.5,0.00945,0.075602,False
+Rewrite 3 vs Rewrite 4,50480.0,0.011148,0.078033,False
+Rewrite 3 vs Rewrite 5,55729.0,0.051299,0.273489,False
+Rewrite 4 vs Rewrite 5,44936.0,8e-06,8.1e-05,True
