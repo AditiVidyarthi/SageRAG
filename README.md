@@ -58,3 +58,7 @@ answer = assistant.process_query("What are the latest developments in transforme
 print(answer)
 ```
 
+## 📄 Reference
+
+This repository accompanies the paper describing SageRAG titled: SageRAG: Query Rewriting for Retrieval Enhancement and Retrieval-Augmented Generation for Grounded Responses in AI Research Assistance.  
+Once published, please cite the official version of the article.  
