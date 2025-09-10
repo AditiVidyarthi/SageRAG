@@ -37,9 +37,9 @@ assistant = ResearchAssistant(llm=llm, vector_db=vector_db)
 
 # Ask a question
 answer = assistant.process_query("What are the latest developments in transformer models?")
-print(answer)
+print(answer)```
 
-## Reproducibility
+## Usage
 
 Notebooks (/notebooks) contain:
 
