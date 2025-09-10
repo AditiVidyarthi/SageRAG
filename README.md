@@ -38,3 +38,19 @@ assistant = ResearchAssistant(llm=llm, vector_db=vector_db)
 # Ask a question
 answer = assistant.process_query("What are the latest developments in transformer models?")
 print(answer)
+
+## Reproducibility
+
+Notebooks (/notebooks) contain:
+
+Query evaluation
+
+Answer quality scoring
+
+Statistical analysis (Friedman, Wilcoxon, Holm correction)
+
+Database (/Database) includes:
+
+arxiv_data/ → sample PDFs
+
+arxiv_vector1_db/ → prebuilt Chroma vector database
