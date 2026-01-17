@@ -1,0 +1,200 @@
+Query,Selected Indices
+transformer better than rnn why,"1,4"
+What attention mechanism do?,"1,4"
+How much data need train?,"1,4"
+gpu vs cpu for training?,"1,2"
+batch size affect what?,"3,4"
+What dropout layer for?,"2,3"
+Adam optimizer vs SGD which?,"1,5"
+What is backprop exactly?,1
+Loss function choose how?,4
+Regularization prevent what?,4
+What ensemble methods do?,1
+Hyperparameter tuning how?,"2,3"
+What activation function best?,"1,4"
+Neural network depth vs width?,"1,3"
+tokenization different methods?,3
+word embedding vs sentence embedding?,"1,2"
+BERT vs GPT difference?,"2,4"
+fine tuning vs training difference?,"1,2,4"
+What is transfer learning nlp?,"1,2"
+pos tagging accuracy improve how?,"2,4"
+named entity recognition hard why?,1
+sentiment analysis multilingual?,"2,3"
+text summarization extractive vs?,"1,2"
+question answering system build?,2
+language model perplexity mean?,"2,3"
+What is few shot learning?,1
+prompt engineering techniques?,4
+What hallucination in llm?,"0,2"
+context window size matter?,"2,3"
+embeddings similarity measure?,2
+What preprocessing text need?,"2,3"
+cnn architecture choose which?,3
+image classification vs detection?,"1,3"
+object detection yolo vs?,"1,4"
+semantic segmentation vs instance?,2
+What is gan used for?,"1,4"
+image preprocessing necessary?,"2,3"
+What is transfer learning cv?,1
+face recognition vs verification?,2
+edge detection algorithms compare?,"1,2"
+How train gan stable?,3
+What is style transfer?,2
+image captioning how work?,2
+What is attention cv?,1
+pooling layer purpose what?,"1,2"
+What is residual connection?,2
+batch normalization why use?,2
+What is dilated convolution?,"1,3,4"
+microservices vs monolith?,"1,4"
+CAP theorem practical implications?,"1,4"
+load balancing strategies?,4
+What is service mesh?,"2,3"
+What is circuit breaker pattern?,"2,3"
+What is event sourcing?,"1,3"
+What is cqrs pattern?,"2,4"
+distributed cache vs?,"1,4"
+What is leader election?,"4,5"
+What is bulkhead pattern?,"2,3"
+What is distributed tracing?,"1,4,5"
+What is container orchestration?,"2,1"
+What is service discovery?,2
+What is api gateway?,"1,4"
+What is message queue vs?,3
+sql vs nosql when?,"1,3"
+What is acid properties?,0
+database indexing how work?,"1,3"
+What is normalization vs?,4
+What is query optimization?,3
+What is database trigger?,"1,3"
+What is database deadlock?,2
+What is database backup strategy?,3
+What is database migration?,0
+What is database connection pool?,"1,3"
+What is oltp vs olap?,3
+What is data warehouse vs?,3
+What is etl process?,1
+time complexity vs space?,5
+What is dynamic programming?,3
+What is greedy algorithm?,2
+What is graph traversal?,"2,5"
+sorting algorithm best when?,"1,3"
+What is binary search tree?,1
+What is heap vs stack?,2
+What is recursion vs iteration?,2
+What is memoization?,3
+What is backtracking algorithm?,2
+What is shortest path algorithm?,2
+What is minimum spanning tree?,3
+What is topological sorting?,1
+What is string matching algorithm?,3
+What is bloom filter?,"0,2"
+What is trie data structure?,"0,2"
+What is segment tree?,4
+agile vs waterfall when?,2
+What is code review benefit?,5
+What is unit testing importance?,4
+What is continuous integration?,1
+What is design pattern?,1
+What is technical debt?,"0,2"
+What is test driven development?,"0,2"
+What is pair programming?,0
+What is software architecture?,3
+What is dependency injection?,1
+What is mvc pattern?,3
+What is solid principles?,0
+What is clean code?,1
+What is documentation importance?,"1,2"
+What is debugging techniques?,1
+What is performance profiling?,"1,2"
+What is public key crypto?,1
+What is digital signature?,1
+What is ssl tls difference?,"1,2"
+What is sql injection prevent?,"2,1"
+What is cross site scripting?,2
+What is two factor auth?,3
+What is zero trust security?,3
+What is penetration testing?,"1,2"
+What is vulnerability assessment?,0
+What is firewall types?,1
+What is blockchain security?,"1,2"
+What is homomorphic encryption?,"1,2"
+What is secure coding practice?,2
+What is key management?,"1,2"
+What is certificate authority?,1
+What is usability testing?,"1,2"
+What is user experience design?,"1,2"
+What is accessibility guidelines?,"1,2"
+What is responsive design?,1
+What is user interface design?,1
+What is user research method?,3
+What is interaction design?,2
+What is information architecture?,1
+What is wireframing prototyping?,1
+What is user persona?,"1,2"
+What is design thinking?,1
+What is cognitive load?,1
+What is affordance design?,1
+What is user journey mapping?,1
+What is design system?,"1,2"
+What is mobile first design?,1
+What is voice user interface?,"1,2"
+What is gesture recognition?,2
+What is eye tracking study?,2
+reinforcement learning vs supervised?,2
+What is policy gradient?,"2,1"
+What is deep q network?,2
+What is multi agent system?,1
+What is meta learning?,1
+What is continual learning?,"1,2"
+What is federated learning?,1
+What is knowledge distillation?,2
+What is neural architecture search?,2
+What is automl?,1
+What is explainable ai?,2
+What is fairness ml?,1
+What is robust ml?,"1,2"
+What is calibration ml?,"1,2"
+What is coreference resolution?,1
+What is information extraction?,2
+What is text classification?,1
+What is topic modeling?,2
+What is document similarity?,"0,1"
+What is text generation?,"1,2"
+What is paraphrase generation?,"1,2"
+What is dialogue system?,2
+What is intent recognition?,1
+What is slot filling?,"0,1"
+What is speech recognition?,1
+What is text to speech?,3
+What is multilingual nlp?,2
+What is cross lingual transfer?,2
+What is image preprocessing?,3
+What is feature matching?,2
+What is homography estimation?,1
+What is stereo vision?,1
+What is structure from motion?,2
+What is simultaneous localization mapping?,1
+What is point cloud processing?,1
+What is action recognition?,4
+What is facial expression recognition?,"1,2"
+What is image retrieval?,"2,1"
+What is content based retrieval?,2
+What is visual search?,2
+What is image forensics?,2
+how train fast model?,1
+gpu memory error solve?,5
+model accuracy low why?,3
+data leak prevent how?,1
+feature selection best method?,1
+cross validation k value?,1
+precision recall f1 when?,1
+confusion matrix interpret?,"1,4"
+statistical significance test?,0
+p value interpretation?,5
+hypothesis testing steps?,2
+correlation vs causation?,0
+outlier detection method?,1
+missing data handle how?,1
+data imputation technique?,2

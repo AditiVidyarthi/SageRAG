@@ -2,6 +2,15 @@
 arxiv_data/
 *_db/
 *.pdf
+Database/processed_chunks.pkl
+
+# Ignore Vector Databases and Large Binaries
+Database/Vector-DB/
+Database/Vector-DB-New/
+Database/*.bin
+Database/*.pkl
+Database/*.sqlite3
+.DS_Store
 
 # Environment variables
 .env
